@@ -7,7 +7,7 @@ const blogPosts = [
     id: 1,
     title: "How to Build a Sustainable Wardrobe That Lasts",
     excerpt: "Learn the fundamentals of creating a versatile and eco-friendly wardrobe that stands the test of time.",
-    image: "https://images.unsplash.com/photo-1493655161922-ef98929de9d8?q=80&w=2070&auto=format&fit=crop",
+    image: "",
     author: "Emma Johnson",
     date: "May 3, 2025"
   },
