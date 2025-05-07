@@ -7,7 +7,7 @@ const blogPosts = [
     id: 1,
     title: "How to Build a Sustainable Wardrobe That Lasts",
     excerpt: "Learn the fundamentals of creating a versatile and eco-friendly wardrobe that stands the test of time.",
-    image: "",
+    image: "https://screenrant.com/halle-berry-catwoman-costume-returns-dc-comics/",
     author: "Emma Johnson",
     date: "May 3, 2025"
   },
