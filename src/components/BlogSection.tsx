@@ -46,7 +46,7 @@ const BlogSection = () => {
             >
               <div className="h-56 overflow-hidden">
                 <img 
-                  src={image} 
+                  src={post.image} 
                   alt={post.title}
                   className="w-full h-full object-cover object-center transition-transform duration-500 hover:scale-105"
                 />
