@@ -7,7 +7,7 @@ const blogPosts = [
     id: 1,
     title: "How to Build a Sustainable Wardrobe That Lasts",
     excerpt: "Learn the fundamentals of creating a versatile and eco-friendly wardrobe that stands the test of time.",
-    image: "/sexy.jpg",
+    image: "sexy.jpg",
     author: "Emma Johnson",
     date: "May 3, 2025"
   },
@@ -46,7 +46,7 @@ const BlogSection = () => {
             >
               <div className="h-56 overflow-hidden">
                 <img 
-                  src={post.image} 
+                  src={image} 
                   alt={post.title}
                   className="w-full h-full object-cover object-center transition-transform duration-500 hover:scale-105"
                 />
