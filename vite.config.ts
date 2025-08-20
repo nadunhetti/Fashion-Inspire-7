@@ -6,7 +6,7 @@ import { componentTagger } from "lovable-tagger";
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
   server: {
-    host: "::",
+    host: ":https://nadunhetti.github.io/trend-canvas-online/:",
     port: 8080,
   },
   plugins: [
