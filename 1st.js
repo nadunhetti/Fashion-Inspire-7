@@ -9,6 +9,4 @@ let a=0;
 while (a<3){        //while loop
   console.log(`Count:${a}`);
   a++;
-
-
 }
